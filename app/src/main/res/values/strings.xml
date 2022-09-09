@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Files</string>
+    <string name="input_link">Input link for download files</string>
+    <string name="download">Download</string>
+    <string name="download_successfuly">Файл успешно загружен</string>
+    <string name="file_already_download">Файл уже был скачан</string>
+</resources>
